@@ -61,7 +61,7 @@ apply the proper context:
 $ chcon -R system_u:object_r:admin_home_t:s0 docker-elk/
 ```
 
-## Usage
+## Usage 
 
 ### Bringing up the stack
 
